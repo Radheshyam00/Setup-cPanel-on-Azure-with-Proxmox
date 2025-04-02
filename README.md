@@ -1,7 +1,7 @@
 # Setup cPanel on Azure with Proxmox
 
 ## Project Overview
-This guide provides step-by-step instructions on setting up **cPanel/WHM** on an **Azure Virtual Machine** using **Proxmox** as the virtualization platform.
+This guide provides step-by-step instructions on setting up **cPanel/WHM** on an **Azure Virtual Machine** using **Proxmox** as the virtualization platform, as outlined in the file `Set Up cPanel.pdf`.
 
 ## Features
 - Deploy **Proxmox** on an Azure VM.
